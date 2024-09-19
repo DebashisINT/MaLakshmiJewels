@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585559540893",
+    "project_id": "breeze-btl-guru",
+    "storage_bucket": "breeze-btl-guru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585559540893:android:447a4f34b28c4df76ac074",
+        "android_client_info": {
+          "package_name": "com.breezefieldsalesmalaxmi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjVRbRRgQLp97zbcgOJhiQ4FGVnrxT7Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
